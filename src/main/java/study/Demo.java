@@ -18,7 +18,7 @@ public class Demo {
 	@Test public void testOne() {
 		System.out.println("hello");
 		
-		
+		System.out.println("woainu");
 	}
 
 
