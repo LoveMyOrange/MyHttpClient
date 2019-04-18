@@ -16,7 +16,7 @@ public class Demo {
 		
 	 */
 	@Test public void testOne() {
-		
+		System.out.println("hello");
 		
 		
 	}
